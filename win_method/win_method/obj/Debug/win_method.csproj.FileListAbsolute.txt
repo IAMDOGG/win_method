@@ -1,0 +1,11 @@
+C:\Users\QQ134\source\repos\win_method\win_method\bin\Debug\win_method.exe.config
+C:\Users\QQ134\source\repos\win_method\win_method\bin\Debug\win_method.exe
+C:\Users\QQ134\source\repos\win_method\win_method\bin\Debug\win_method.pdb
+C:\Users\QQ134\source\repos\win_method\win_method\obj\Debug\win_method.csproj.AssemblyReference.cache
+C:\Users\QQ134\source\repos\win_method\win_method\obj\Debug\win_method.csproj.SuggestedBindingRedirects.cache
+C:\Users\QQ134\source\repos\win_method\win_method\obj\Debug\win_method.Form1.resources
+C:\Users\QQ134\source\repos\win_method\win_method\obj\Debug\win_method.Properties.Resources.resources
+C:\Users\QQ134\source\repos\win_method\win_method\obj\Debug\win_method.csproj.GenerateResource.cache
+C:\Users\QQ134\source\repos\win_method\win_method\obj\Debug\win_method.csproj.CoreCompileInputs.cache
+C:\Users\QQ134\source\repos\win_method\win_method\obj\Debug\win_method.exe
+C:\Users\QQ134\source\repos\win_method\win_method\obj\Debug\win_method.pdb
